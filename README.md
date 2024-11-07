@@ -1,18 +1,18 @@
 # Data Professional Survey Breakdown
 
 ## Objective
-- To create a powerBI dashboard with data visualizations summarizing the results of a real survey conducted among data professionals.
+The objective of this project is to create a Power BI dashboard with data visualizations that summarize the results of a real survey conducted among data professionals.
 
 ## Data
-- The survey data was collected during June of 2022 globally.
-- Key attributes include salary, job title, education level, programming language used, etc.
-- The survey data was provided by Alex The Analyst (https://www.youtube.com/@AlexTheAnalyst).
+- The survey data was collected globally in June 2022.
+- Key attributes include salary, job title, education level, programming languages used, and more.
+- The data was provided by Alex The Analyst.
 
-## Tools: 
-- Excel
-- PowerBI
+## Tools
+- Excel: Used for initial data handling.
+- Power BI: Used to build an interactive dashboard.
 
-## Resources:
-- PowerBI file containing the interactive dashboard (Must be opened in PowerBI)
-- PDF file of the data visualizations (still images)
-- Excel fiel of the survey data
+## Resources
+- Power BI file containing the interactive dashboard (requires Power BI to open).
+- PDF file with still images of the data visualizations.
+- Excel file containing the survey data.
