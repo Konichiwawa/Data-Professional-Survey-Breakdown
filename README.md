@@ -10,7 +10,7 @@ The objective of this project is to create a Power BI dashboard with data visual
 
 ## Tools
 - Excel: Used for initial data handling.
-- Power BI: Used to build an interactive dashboard.
+- Power BI: Used to transform data in Power Query and build an interactive dashboard.
 
 ## Resources
 - Power BI file containing the interactive dashboard (requires Power BI to open).
