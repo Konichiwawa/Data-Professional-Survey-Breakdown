@@ -1,18 +1,26 @@
 # Data Professional Survey Breakdown
 
 ## Objective
-The objective of this project is to create a Power BI dashboard with data visualizations that summarize the results of a real survey conducted among data professionals.
+The objective of this project is to create an interactive Power BI dashboard that visualizes and summarizes the results of a global survey conducted among data professionals. The visualizations aim to provide insights into key trends and demographics within the data profession.
 
-## Data
-- The survey data was collected globally in June 2022.
-- Key attributes include salary, job title, education level, programming languages used, and more.
-- The data was provided by Alex The Analyst.
+## Data Overview
+The survey data was collected globally in June 2022 and provides insights into various aspects of the data profession. The key attributes include:
+
+- Salary: Salary ranges and averages for data professionals.
+- Job Title: Different roles and positions within the data industry.
+- Education Level: The highest level of education achieved by the respondents.
+- Programming Languages: Programming languages commonly used by data professionals.
+- Other Demographics: Additional information such as experience, location, industry, and more.
+
+The data was provided by Alex The Analyst and has been anonymized for analysis.
 
 ## Tools
-- Excel: Used for initial data handling.
-- Power BI: Used to transform data in Power Query and build an interactive dashboard.
+- Excel: Used for initial data cleaning and handling.
+- Power BI: Used for transforming the data in Power Query and building the interactive dashboard.
 
 ## Resources
-- Power BI file containing the interactive dashboard (requires Power BI to open).
-- PDF file with still images of the data visualizations.
-- Excel file containing the survey data.
+The following resources are included in the project folder:
+
+- Power BI File: The interactive dashboard created using Power BI (requires Power BI Desktop or Power BI Service to view).
+- PDF File: A static PDF with screenshots of the key visualizations from the dashboard.
+- Excel File: The raw survey data used to generate the visualizations.
