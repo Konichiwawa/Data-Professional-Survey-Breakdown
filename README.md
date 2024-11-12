@@ -12,7 +12,7 @@ The survey data was collected globally in June 2022 and provides insights into v
 - Programming Languages: Programming languages commonly used by data professionals.
 - Other Demographics: Additional information such as experience, location, industry, and more.
 
-The data was provided by Alex The Analyst and has been anonymized for analysis.
+The data was provided by Alex The Analyst (https://www.youtube.com/@AlexTheAnalyst) and has been anonymized for analysis.
 
 ## Tools
 - Excel: Used for initial data cleaning and handling.
